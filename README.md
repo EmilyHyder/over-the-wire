@@ -15,3 +15,5 @@ cat "spaces in filename"
 exit
 ssh bandit3@bandit.labs.overthewire.org -p 2220
 UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+ls
+cd inhere
