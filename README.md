@@ -27,3 +27,6 @@ cd inhere
 ls -al
 file ./-file*
 cat ./-file07
+exit 
+ssh bandit5@bandit.labs.overthewire.org -p 2220
+koReBOKuIDDepwhWk7jZC0RTdopnAYKh
