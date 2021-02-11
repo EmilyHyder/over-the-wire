@@ -25,3 +25,4 @@ pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 ls
 cd inhere
 ls -al
+file ./-file*
