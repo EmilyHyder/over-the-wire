@@ -30,3 +30,6 @@ cat ./-file07
 exit 
 ssh bandit5@bandit.labs.overthewire.org -p 2220
 koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+ls
+cd inhere
+ls -al
