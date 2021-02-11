@@ -26,3 +26,4 @@ ls
 cd inhere
 ls -al
 file ./-file*
+cat ./-file07
