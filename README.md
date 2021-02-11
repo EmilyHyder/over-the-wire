@@ -24,3 +24,4 @@ ssh bandit4@bandit.labs.overthewire.org -p 2220
 pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 ls
 cd inhere
+ls -al
