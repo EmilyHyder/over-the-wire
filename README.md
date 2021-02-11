@@ -34,3 +34,6 @@ ls
 cd inhere
 ls -al
 find . -size 1033c
+cd maybehere07
+ls
+ls -al
