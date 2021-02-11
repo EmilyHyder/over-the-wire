@@ -37,3 +37,4 @@ find . -size 1033c
 cd maybehere07
 ls
 ls -al
+cat ./.file2
