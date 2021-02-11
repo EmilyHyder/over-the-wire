@@ -33,3 +33,4 @@ koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 ls
 cd inhere
 ls -al
+find . -size 1033c
