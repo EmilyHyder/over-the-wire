@@ -183,3 +183,6 @@ data: ASCII text
 bandit12@bandit:/tmp/nyx77$ cat data
 The password is 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
 bandit12@bandit:/tmp/nyx77$ 
+exit 
+ssh bandit13@bandit.labs.overthewire.org -p 2220
+8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
