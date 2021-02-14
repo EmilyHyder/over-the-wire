@@ -50,3 +50,6 @@ HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
 ls
 cat data.txt
 grep millionth data.txt
+exit
+ssh bandit8@bandit.labs.overthewire.org -p 2220
+cvX2JJa4CFALtqS87jk27qwqGhBM9plV
