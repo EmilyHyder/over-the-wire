@@ -46,5 +46,7 @@ find / -user bandit7 -group bandit6 -size 33c
 cat /var/lib/dpkg/info/bandit7.password
 exit
 ssh bandit7@bandit.labs.overthewire.org -p 2220
-ssh bandit6@bandit.labs.overthewire.org -p 2220
 HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+ls
+cat data.txt
+grep millionth data.txt
