@@ -56,3 +56,13 @@ cvX2JJa4CFALtqS87jk27qwqGhBM9plV
 ls
 cat data.txt
 sort data.txt | uniqu -u
+exit
+ssh bandit9@bandit.labs.overthewire.org -p 2220
+UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+ls
+cat data.txt
+strings data.txt
+strings data.txt | grep "=="
+exit
+ssh bandit10@bandit.labs.overthewire.org -p 2220
+truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
