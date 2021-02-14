@@ -186,3 +186,11 @@ bandit12@bandit:/tmp/nyx77$
 exit 
 ssh bandit13@bandit.labs.overthewire.org -p 2220
 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+ls
+ssh -i sshkey.private bandit14@localhost
+ls
+cat /etc/bandit_pass/bandit14 
+4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+nc localhost 30000
+4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+PASS FOR 15: BfMYroe26WYalil77FoDi9qh59eK5xNr
