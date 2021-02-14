@@ -66,3 +66,8 @@ strings data.txt | grep "=="
 exit
 ssh bandit10@bandit.labs.overthewire.org -p 2220
 truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+ls
+cat data.txt
+base64 -d data.txt
+
+IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
