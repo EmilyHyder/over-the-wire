@@ -69,5 +69,12 @@ truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
 ls
 cat data.txt
 base64 -d data.txt
-
+exit
+ssh bandit11@bandit.labs.overthewire.org -p 2220
 IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+ls
+cat data.txt
+cat data.txt| tr [a-z] [n-za-m] |tr [A-Z] [N-ZA-M]
+exit 
+ssh bandit12@bandit.labs.overthewire.org -p 2220
+5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
