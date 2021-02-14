@@ -41,3 +41,5 @@ cat ./.file2
 exit
 ssh bandit6@bandit.labs.overthewire.org -p 2220
 DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+ls -al
+HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
