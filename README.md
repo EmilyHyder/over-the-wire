@@ -53,3 +53,6 @@ grep millionth data.txt
 exit
 ssh bandit8@bandit.labs.overthewire.org -p 2220
 cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+ls
+cat data.txt
+sort data.txt | uniqu -u
